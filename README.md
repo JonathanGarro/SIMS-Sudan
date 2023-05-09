@@ -36,8 +36,6 @@ Back in the top level of the folder, click on the elipsis. The window that pops 
 
 Click on **Link for viewing**, then leave all the settings as their default.
 
-## Lessons
-
-## Innovations
+## Lessons and Innovations
 
 - **Support Profiles**: This was the first time we tried to align and categorize requests directly with the support profiles: geospatial, web visualization, information design, data transformation and analysis, and data collection and survey design. Having tasks organized (and correspondingly tagged in Trello) helps focus people's attention by the sort of specializations they possess.
