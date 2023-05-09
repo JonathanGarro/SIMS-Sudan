@@ -28,11 +28,11 @@ Inside the folder for the emergency, look to the top right of the screen and cli
 
 **Create Read-Only Link for SIMS Portal**
 
-![Screen Shot 2023-05-09 at 09 52 47 AM](https://github.com/JonathanGarro/SIMS_Shadowing/assets/8890661/2b6d56e2-ddbe-4b73-b726-39c178a77e17)
+![Screen Shot 2023-05-09 at 09 52 47 AM](https://github.com/JonathanGarro/SIMS-Sudan/assets/8890661/3782aec2-5efe-4217-bc56-5496686f7de3)
 
 Back in the top level of the folder, click on the elipsis. The window that pops up will have a gear icon at the top right.
 
-![Screen Shot 2023-05-09 at 09 53 24 AM](https://github.com/JonathanGarro/SIMS_Shadowing/assets/8890661/fc91bd66-a42a-4396-9da0-ddf7128415fc)
+![Screen Shot 2023-05-09 at 09 53 24 AM](https://github.com/JonathanGarro/SIMS-Sudan/assets/8890661/5ac59782-bd7b-4a5a-aa18-fec80559d834)
 
 Click on **Link for viewing**, then leave all the settings as their default.
 
