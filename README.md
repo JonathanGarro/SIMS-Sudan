@@ -1,5 +1,3 @@
-# First Round SIMS Remote Coordinator Documentation for Sudan Crisis
-
 Documenting the main activities led or supported by the SIMS Remote Coordinator for the Sudan Response. 
 
 ## Activation Process
