@@ -48,7 +48,7 @@ We have set up a joint IM Technical Working Group with the ICRC to facilitate th
 
 ## Tasking
 
-There is an operations manager for Sudan that is currently based in Nairobi, but is planning on traveling to Sudan at some point soon once security issues are fully analyzed. He has been our main focal point and person requesting these products.
+There is an operations manager for Sudan that is currently based in Nairobi, but is planning on traveling to Sudan at some point soon once security issues are fully analyzed. He has been our main focal point and the person requesting these products.
 
 ## Lessons and Innovations
 
