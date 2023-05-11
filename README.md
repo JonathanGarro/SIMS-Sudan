@@ -46,8 +46,11 @@ We have set up a joint IM Technical Working Group with the ICRC to facilitate th
 
 ## Tasking
 
-There is an operations manager for Sudan that is currently based in Nairobi, but is planning on traveling to Sudan at some point soon once security issues are fully analyzed. He has been our main focal point and the person requesting these products.
+There is an operations manager for Sudan that is currently based in Nairobi, but is planning on traveling to Sudan at some point soon once security issues are fully analyzed. He has been our main focal point and person requesting these products.
 
 ## Lessons and Innovations
 
 - **Support Profiles**: This was the first time we tried to align and categorize requests directly with the support profiles: geospatial, web visualization, information design, data transformation and analysis, and data collection and survey design. Having tasks organized (and correspondingly tagged in Trello) helps focus people's attention by the sort of specializations they possess.
+- **Dropbox Confusion**: We continue to get people confused by Dropbox. We've heard complaints that people don't have more than the free 2GB tier can't sync the folders, but they shouldn't be syncing the whole thing anyway. You can choose to leave data in the cloud and only pull what you need, and since people tend to work on only a small subset of all the data in our top-level folder, they shouldn't even be invited to have access to the whole thing anyway (only relevant D- and P- folders).
+- **Translations**: We need to establish better guidance and SOPs around translations. It's a chronic issue where info products need to be translated into languages that SIMS doesn't have much capacity with. And when it is for a language that we do have capacity—like Spanish—it can be a tough task to get traction on, as translations can be boring and thankless. The two options we tend to talk about include Translators Without Borders (which can be slow) or a paid solution (which we don't have budget for), so we need to figure out how to balance speed with cost.
+- **Kick-Off**: Do we need a better way of launching channels? I just went to the **General** channel and let folks know, but a week later people are trickling in that I realize should have been there day one. What's a better way of socializing and engaging for those that aren't daily SIMS Slack users?
